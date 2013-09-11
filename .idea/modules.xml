@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fishwarz.iml" filepath="$PROJECT_DIR$/fishwarz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/fishwarz-core.iml" filepath="$PROJECT_DIR$/core/fishwarz-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/html/fishwarz-html.iml" filepath="$PROJECT_DIR$/html/fishwarz-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/fishwarz-java.iml" filepath="$PROJECT_DIR$/java/fishwarz-java.iml" />
+    </modules>
+  </component>
+</project>
+
